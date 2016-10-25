@@ -1,7 +1,7 @@
 {
   "name": "fvfill",
   "version": "0.0.1",
-  "description": "Field-of-view CSS unit polyfill adding support for 'dg' (degrees) and 'rm' (milliradians) units",
+  "description": "Field-of-view CSS unit polyfill adding support for 'dg' (degrees) and 'mr' (milliradians) units",
   "authors": [
     "Matthew Loomis <mloomis@hugeinc.com>"
   ],
